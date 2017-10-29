@@ -1,10 +1,10 @@
 ---
 layout: page
-title: “LiuXS Lab---Laboratory of Cancer Biology”
+title: about
 sidebar_link: true
 ---
 
-
+# LiuXS Lab---Laboratory of Cancer Biology
 
 ## Introduction
 
